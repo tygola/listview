@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="branco">#ffffff</color>
+    <color name="linha">#E4E4E4</color>
+    <color name="titulo">#797979</color>
+    <color name="ano">#CC8BDA</color>
+    <color name="estrela">#CFC767</color>
+</resources>
